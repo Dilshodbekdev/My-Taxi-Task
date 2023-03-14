@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Taxi Task</string>
+
+    <string name="access_token">sk.eyJ1IjoiZGlsc2hvZDk4IiwiYSI6ImNsZjZicmt4YzEzOTIzdG9jcXBvcDUyMm8ifQ.UDxIUDy_5aK677B3ovRHDw</string>
+    <string name="start_navigation">Start Navigation</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
